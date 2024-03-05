@@ -1,0 +1,45 @@
+body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+        .section {
+            padding: 20px;
+            margin: 20px 0;
+        }
+        #abstract {
+            background-color: #f2f2f2;
+        }
+        #definition {
+            background-color: #e6f7ff;
+        }
+        #historical {
+            background-color: #ffe6cc;
+        }
+        #future {
+            background-color: #e6e6e6;
+        }
+        #conclusions {
+            background-color: #ccffcc;
+        }
+        h1 {
+            font-size: 24px;
+            margin-top: 0;
+        }
+        h2 {
+            font-size: 20px;
+            margin-top: 0;
+        }
+        h3 {
+            font-size: 18px;
+            margin-top: 0;
+        }
+        p {
+            font-size: 16px;
+        }
